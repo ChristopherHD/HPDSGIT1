@@ -1,0 +1,10 @@
+On branch master
+
+Initial commit
+
+Untracked files:
+	4-config.txt
+	5-stagingArea.txt
+	6-commit.txt
+
+nothing added to commit but untracked files present

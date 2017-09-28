@@ -1,0 +1,21 @@
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   Indice.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	10-status.txt
+	4-config.txt
+	5-stagingArea.txt
+	6-commit.txt
+	8-status.txt
+	Capitulo-1.txt
+	Capitulo-2.txt
+	Capitulo-3.txt
+
